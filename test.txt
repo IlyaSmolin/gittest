@@ -1,5 +1,5 @@
 first line
-develop
+merge result
 third line
 git commit develop test
 git commit get from develop to local 
