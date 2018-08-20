@@ -1,1 +1,1 @@
-master updated developconflictwithmaster
+merge result
