@@ -1,2 +1,3 @@
 
 newcommit1
+newcommit2cherry-pick
